@@ -1,0 +1,3 @@
+rootProject.name = 'team_work_technology_4513'
+
+include ':app'
